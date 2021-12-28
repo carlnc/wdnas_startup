@@ -2,11 +2,11 @@ Package:	Startup
 Section:	Addon
 Version:	1.0
 Packager:	Carl
-Email:		carlnapiercook@gmail.com
+Email:		c_a_r_l_n_a_p_i_e_r_c_o_o_k@g_m_a_i_l_._c_o_m
 Homepage:	http://support.wdc.com/
 Description:	Entrypoint to your own custom starup scripts.
-Icon:		Transmission.png
-AddonShowName:	Transmission
+Icon:		Startup.png
+AddonShowName:	Startup
 AddonIndexPage:	index.html
 AddonUsedPort:
 InstDepend:
