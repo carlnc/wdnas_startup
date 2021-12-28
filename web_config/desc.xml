@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <en-US>Entrypoint to your own custom starup scripts.</en-US>
+  <cs-CZ>Entrypoint to your own custom starup scripts.</cs-CZ>
+  <de-DE>Entrypoint to your own custom starup scripts.</de-DE>
+  <es-ES>Entrypoint to your own custom starup scripts.</es-ES>
+  <fr-FR>Entrypoint to your own custom starup scripts.</fr-FR>
+  <hu-HU>Entrypoint to your own custom starup scripts.</hu-HU>
+  <it-IT>Entrypoint to your own custom starup scripts.</it-IT>
+  <ja-JP>Entrypoint to your own custom starup scripts.</ja-JP>
+  <ko-KR>Entrypoint to your own custom starup scripts.</ko-KR>
+  <no-NO>Entrypoint to your own custom starup scripts.</no-NO>
+  <nl-NL>Entrypoint to your own custom starup scripts.</nl-NL>
+  <pl-PL>Entrypoint to your own custom starup scripts.</pl-PL>
+  <pt-BR>Entrypoint to your own custom starup scripts.</pt-BR>
+  <ru-RU>Entrypoint to your own custom starup scripts.</ru-RU>
+  <sv-SE>Entrypoint to your own custom starup scripts.</sv-SE>
+  <tr-TR>Entrypoint to your own custom starup scripts.</tr-TR>
+  <zh-CN>Entrypoint to your own custom starup scripts.</zh-CN>
+  <zh-TW>Entrypoint to your own custom starup scripts.</zh-TW>
+</config>
